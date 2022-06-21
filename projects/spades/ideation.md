@@ -1,7 +1,12 @@
+# Ideation
+
+Out of many Spades card game apps 
 there is only one web app worth attention:
 https://cardgames.io/spades/
 
-Customer Pain points / pain reliefs:
+It can be still improved in several ways
+
+## Customer Pain points / pain reliefs:
 
 - Cannot chat own words
   - Can chat if logged in
@@ -28,7 +33,7 @@ Customer Pain points / pain reliefs:
   - Show adds only when waiting on other player
     (and is obvious that it opens in new window)
   - add shows when game is ended
-  - use interstitial apps more
+  - use interstitial adds more
 
 - Navigates to Hearts app in a middle of the game
   - Ensure you cant accidently click on something, "confirm leave" 
