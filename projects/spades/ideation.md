@@ -10,7 +10,7 @@ It can be still improved in several ways
 
 - Cannot chat own words
   - Can chat if logged in
-- When humans are assholes it can spoil game
+- When humans are quiting it can spoil game
   - after second timeout forced move others can vote eviction
   - reputation grows by continuing somebody elses games
 
