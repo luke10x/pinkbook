@@ -38,11 +38,12 @@ It can be still improved in several ways
 - Navigates to Hearts app in a middle of the game
   - Ensure you cant accidently click on something, "confirm leave" 
 
-Gains:
+- Cannot play with same people again
+  - add "buddies" like in Zynga Poker
+
+## Gains:
 
 - onboarding like zynga spades+
 - interactive helper giving tips (maybe just criticizing after move)
 - result graph showing points change over time
 - Integrate with voice call
-
-
