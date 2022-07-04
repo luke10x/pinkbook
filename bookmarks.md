@@ -1,7 +1,5 @@
 # Links
 
-## For now
+[C4 model](https://c4model.com/)  
 
-## For later
-[Reaction to David's useEffect talk](https://www.youtube.com/watch?v=CFxA5GmDIbU) 
 
