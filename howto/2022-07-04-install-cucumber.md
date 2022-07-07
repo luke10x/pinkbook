@@ -31,3 +31,11 @@ Make sure you have this in your tsconfig.json:
 compilerOptions.target && compilerOptions.lib not less than es6
 
 compileOptions.module should be "CommonJS"
+
+
+## To make jestful assertions
+
+we also need `expect` to be available in the scope which is in jes package
+
+yarn add --dev ts-jest @types/jest jest
+
