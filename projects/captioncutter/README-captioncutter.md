@@ -1,0 +1,1 @@
+Captioncutter is just a speech to text api
