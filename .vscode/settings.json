@@ -1,4 +1,5 @@
 {
+  "terminal.integrated.shellIntegration.enabled": true,
   "editor.renderWhitespace": "trailing",
   "workbench.colorTheme":"Visual Studio Light",
   "workbench.colorCustomizations": {
